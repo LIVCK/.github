@@ -11,27 +11,27 @@
 
 <br>
 
-[//]: # ()
-[//]: # ([![Self-Hosted]&#40;https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-self-hosted.svg&#41;]&#40;https://livck.com/statuspage&#41;)
-
-[![Cloud · Beta](https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-cloud.svg)](https://livck.cloud)
-
-[//]: # ([![Docs · Self-Hosted]&#40;https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-self-hosted.svg&#41;]&#40;https://help.livck.com&#41;)
-
-[//]: # ([![Docs · Cloud]&#40;https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-cloud.svg&#41;]&#40;https://docs.livck.cloud&#41;)
-
-[![Discord](https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-discord.svg)](https://discord.livck.com)
-
-[//]: # ()
-[//]: # ([![LIVCK Status]&#40;https://status.livck.com/api/v3/badge/status?style=flat&#41;]&#40;https://status.livck.com&#41;)
-
-[//]: # ([![LIVCK Uptime]&#40;https://status.livck.com/api/v3/badge/uptime?style=flat&days=90&#41;]&#40;https://status.livck.com&#41;)
-
-[//]: # (<sub>Every badge on this page is served by LIVCK, the two above live from our own status page. No third party involved.</sub>)
+<a href="https://livck.com/statuspage"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-self-hosted-dark.svg">
+  <img alt="Self-Hosted" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-self-hosted.svg">
+</picture></a>
+<a href="https://livck.cloud"><img alt="Cloud · Beta" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-cloud.svg"></a>
+<a href="https://help.livck.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-self-hosted-dark.svg">
+  <img alt="Docs · Self-Hosted" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-self-hosted.svg">
+</picture></a>
+<a href="https://docs.livck.cloud"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-cloud-dark.svg">
+  <img alt="Docs · Cloud" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-cloud.svg">
+</picture></a>
+<a href="https://discord.livck.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-discord-dark.svg">
+  <img alt="Discord" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-discord.svg">
+</picture></a>
 
 </div>
 
-[//]: # (---)
+---
 
 <table>
 <tr>
@@ -115,6 +115,8 @@ Currently in **beta**. The free plan covers 20 services without a credit card; a
 | **Good fit for**     | Homelabs, agencies, regulated or isolated envs | Teams who want monitoring as a platform, not a widget  |
 
 Every check type is included in **every** plan, including the free one. We don't sell uptime back to you in slices.
+
+---
 
 ## Meet LIVI
 
