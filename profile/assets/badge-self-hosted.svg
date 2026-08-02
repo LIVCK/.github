@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122" height="32" viewBox="0 0 122 32" role="img" aria-label="LIVCK Self-Hosted on livck.com">
+  <title>LIVCK Self-Hosted on livck.com</title>
+  <defs>
+    <style type="text/css">
+      .bg { fill: #0F192A; }
+      .dot { fill: #00E091; }
+      .label { fill: #F2F5F4; }
+      .t {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: .04em;
+        text-transform: uppercase;
+      }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #1B2A44; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="122" height="32" rx="16"/>
+  <circle class="dot" cx="16" cy="16" r="3"/>
+  <text class="label t" x="66.0" y="20" text-anchor="middle">Self-Hosted</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="32" viewBox="0 0 126 32" role="img" aria-label="LIVCK Cloud, currently in beta">
+  <title>LIVCK Cloud, currently in beta</title>
+  <defs>
+    <style type="text/css">
+      .bg { fill: #00E091; }
+      .dot { fill: #0F192A; }
+      .label { fill: #0F192A; }
+      .t {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: .04em;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="126" height="32" rx="16"/>
+  <circle class="dot" cx="16" cy="16" r="3"/>
+  <text class="label t" x="68.0" y="20" text-anchor="middle">Cloud · Beta</text>
+</svg>
