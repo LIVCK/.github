@@ -46,7 +46,7 @@ We're a German company. Data protection isn't a checkbox we added late, it's why
 Two editions. **Both start at €0**, and neither is crippled to sell you the other.
 
 </td>
-<td align="center">
+<td align="center" valign="middle">
 
 <img src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/livi-wave.svg" width="150" alt="LIVI waving">
 
@@ -91,63 +91,7 @@ Currently in **beta**. The free plan covers 20 services without a credit card; a
 </tr>
 </table>
 
-> [!NOTE]
-> **Self-hosted and Cloud differ in more than who runs the server.**
->
-> Self-hosted watches your services from one vantage point and does that job well. The Cloud sees things a single box can't: agents reporting from inside your servers, distributed probes that vote before an alert goes out, longer history, deeper integrations.
->
-> Same brand, same green, different depth.
-
----
-
-## From weekend project to enterprise
-
-|                      | Self-Hosted                                    | Cloud                                                 |
-| -------------------- | ---------------------------------------------- | ----------------------------------------------------- |
-| **Starts at**        | €0, forever, 20 monitors                       | €0 in beta, 20 services                                |
-| **Runs on**          | Your Docker host                               | German data centres, managed                           |
-| **Vantage point**    | One: your server                               | Several independent locations, majority vote           |
-| **Check interval**   | Minute-level                                   | 30 s on standard plans, down to 10 s on Enterprise     |
-| **Server agents**    | –                                              | ✅ Metrics from inside the host                        |
-| **Updates, backups** | Auto-updater, the box is yours                 | Handled for you                                        |
-| **Your data**        | Never leaves your network                      | Stays in Germany, GDPR by design                       |
-| **Scales to**        | Enterprise plans, own infrastructure           | Enterprise, dedicated setup, priority support          |
-| **Good fit for**     | Homelabs, agencies, regulated or isolated envs | Teams who want monitoring as a platform, not a widget  |
-
 Every check type is included in **every** plan, including the free one. We don't sell uptime back to you in slices.
-
----
-
-## Meet LIVI
-
-<table>
-<tr>
-<td align="center" width="26%">
-
-<img src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/livi-idle.svg" width="130" alt="LIVI">
-
-</td>
-<td>
-
-LIVI is our mascot. The antenna is reception, the lamp on top is transparency, and that lamp carries the same five states your status page does.
-
-Deliberately **no eye** as a metaphor. Monitoring plus an eye reads as surveillance, which is the wrong signal for a product built around GDPR by design.
-
-One rule matters more than the rest: **LIVI only moves while everything is green.** During an incident she stands perfectly still. A mascot that waves and hops through an outage doesn't look friendly, it looks clueless.
-
-</td>
-</tr>
-</table>
-
-| State           | Colour    | LIVI does                            |
-| --------------- | --------- | ------------------------------------ |
-| 🟢 Operational  | `#00E091` | Breathes, blinks, waves now and then |
-| 🟡 Degraded     | `#FFC53D` | Wide eyes, still                     |
-| 🟠 Partial      | `#FF9040` | Worried, antenna low                 |
-| 🔴 Major        | `#FF5C5C` | Worried, no movement at all          |
-| 🔵 Maintenance  | `#5B9BFF` | Awake and busy, this one is on purpose |
-
-Every asset is a single self-contained SVG: CSS animation, no Lottie, no JavaScript, no web font to download, under 4 KB gzipped, and `prefers-reduced-motion` is built in.
 
 ---
 
