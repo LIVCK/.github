@@ -11,20 +11,27 @@
 
 <br>
 
-[![Self-Hosted](https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-self-hosted.svg)](https://livck.com/statuspage)
+[//]: # ()
+[//]: # ([![Self-Hosted]&#40;https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-self-hosted.svg&#41;]&#40;https://livck.com/statuspage&#41;)
+
 [![Cloud · Beta](https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-cloud.svg)](https://livck.cloud)
-[![Docs · Self-Hosted](https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-self-hosted.svg)](https://help.livck.com)
-[![Docs · Cloud](https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-cloud.svg)](https://docs.livck.cloud)
+
+[//]: # ([![Docs · Self-Hosted]&#40;https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-self-hosted.svg&#41;]&#40;https://help.livck.com&#41;)
+
+[//]: # ([![Docs · Cloud]&#40;https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-cloud.svg&#41;]&#40;https://docs.livck.cloud&#41;)
+
 [![Discord](https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-discord.svg)](https://discord.livck.com)
 
-[![LIVCK Status](https://status.livck.com/api/v3/badge/status?style=flat)](https://status.livck.com)
-[![LIVCK Uptime](https://status.livck.com/api/v3/badge/uptime?style=flat&days=90)](https://status.livck.com)
+[//]: # ()
+[//]: # ([![LIVCK Status]&#40;https://status.livck.com/api/v3/badge/status?style=flat&#41;]&#40;https://status.livck.com&#41;)
 
-<sub>Every badge on this page is served by LIVCK, the two above live from our own status page. No third party involved.</sub>
+[//]: # ([![LIVCK Uptime]&#40;https://status.livck.com/api/v3/badge/uptime?style=flat&days=90&#41;]&#40;https://status.livck.com&#41;)
+
+[//]: # (<sub>Every badge on this page is served by LIVCK, the two above live from our own status page. No third party involved.</sub>)
 
 </div>
 
----
+[//]: # (---)
 
 <table>
 <tr>
@@ -108,54 +115,6 @@ Currently in **beta**. The free plan covers 20 services without a credit card; a
 | **Good fit for**     | Homelabs, agencies, regulated or isolated envs | Teams who want monitoring as a platform, not a widget  |
 
 Every check type is included in **every** plan, including the free one. We don't sell uptime back to you in slices.
-
----
-
-## What's in the box
-
-Both editions share the same core. Where they differ, it's marked.
-
-**Checks** — HTTP(S) · TCP · Ping · DNS · SSL certificates · Heartbeat (cron jobs, internal services) · Manual (driven by the API)
-
-**Advanced Monitor Check** — before anything is declared down, LIVCK re-tests in delayed steps. Fewer 3 a.m. pages for a packet that got lost once.
-
-**Incidents** — full workflow from Investigating to Postmortem, auto-detection, outage linking, maintenance windows, reusable alert templates.
-
-**Status page** — drag & drop designer, custom domain, private pages, PWA install, uptime calendar, subscriber newsletter, embeddable badges, three themes, full HTML/CSS control. History depth follows your plan's data retention.
-
-**Notifications** — Email · Discord · Slack · Telegram · SMS · Pushover, plus Microsoft Teams and webhooks in the Cloud. Throttling included, so a bad night doesn't turn into 200 messages.
-
-**Platform** — REST API (v3 self-hosted, v1 in the Cloud), scoped API tokens, webhooks, teams, roles and permissions, 2FA, Terraform provider, Discord bot.
-
----
-
-## Get started in five minutes
-
-```bash
-# A Linux server with Docker is all you need: 2 vCPU, 4 GB RAM, 40 GB SSD
-curl -fsSL https://get.docker.com | sh
-
-# Grab your free licence key at livck.com/dashboard, allowlist the server IP, then:
-curl -fsSL https://get.livck.com | bash
-```
-
-The installer asks for a project name, your domain, and how you want mail and SSL set up, then prints your status page URL. Full walkthrough: **[help.livck.com/installation](https://help.livck.com/installation)**
-
-Rather skip the server entirely? **[Join the Cloud beta](https://statuspage.de/en#waitlist)** instead.
-
----
-
-## Repositories here
-
-| Repository                                                                                     | What it is                                                          |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [**agent**](https://github.com/LIVCK/agent)                                                     | The Cloud server agent: CPU, memory, disk and service metrics from inside your hosts |
-| [**terraform-provider-livck**](https://github.com/LIVCK/terraform-provider-livck)               | Monitors, status pages and charts as code                            |
-| [**livck-terraform-getting-started**](https://github.com/LIVCK/livck-terraform-getting-started) | A working starter config, from zero to a live page in one `apply`    |
-| [**livck-discord-bot**](https://github.com/LIVCK/livck-discord-bot)                             | Status boards and slash commands inside Discord                      |
-| [**livck-docs**](https://github.com/LIVCK/livck-docs)                                           | Changelog for the self-hosted edition                                |
-
----
 
 ## Meet LIVI
 
