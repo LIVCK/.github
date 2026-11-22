@@ -15,7 +15,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-self-hosted-dark.svg">
   <img alt="Self-Hosted" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-self-hosted.svg">
 </picture></a>
-<a href="https://livck.cloud"><img alt="Cloud · Beta" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-cloud.svg"></a>
+<a href="https://livck.cloud"><img alt="Cloud · Operational" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-cloud.svg"></a>
 <a href="https://help.livck.com"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-self-hosted-dark.svg">
   <img alt="Docs · Self-Hosted" src="https://raw.githubusercontent.com/LIVCK/.github/main/profile/assets/badge-docs-self-hosted.svg">
