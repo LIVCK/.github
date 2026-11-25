@@ -85,9 +85,9 @@ The honest entry point: if your compliance people say "nothing leaves the buildi
 
 Checks from several independent locations, tighter intervals, server agents reporting from inside your hosts, backups and updates handled for you.
 
-Currently in **beta**. The free plan covers 20 services without a credit card; access runs through the waitlist for now.
+The free plan covers 20 services without a credit card; access runs through the waitlist for now.
 
-`livck.cloud` · [Join the beta →](https://statuspage.de/en#waitlist)
+`livck.cloud` · [Join the cloud →](https://app.livck.cloud/register)
 
 </td>
 </tr>
